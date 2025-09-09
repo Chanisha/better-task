@@ -56,8 +56,8 @@ export default function StartPage() {
                 <Image 
                   src="/buying-home-icon.png" 
                   alt="Buying a home" 
-                  width={40} 
-                  height={40}
+                  width={60} 
+                  height={60}
                   className={styles.optionImage}
                 />
               </div>
@@ -72,8 +72,8 @@ export default function StartPage() {
                 <Image 
                   src="/refinancing-icon.png" 
                   alt="Refinancing my mortgage" 
-                  width={40} 
-                  height={40}
+                  width={60} 
+                  height={60}
                   className={styles.optionImage}
                 />
               </div>
@@ -88,8 +88,8 @@ export default function StartPage() {
                 <Image 
                   src="/cash-from-home-icon.png" 
                   alt="Get cash from my home" 
-                  width={40} 
-                  height={40}
+                  width={60} 
+                  height={60}
                   className={styles.optionImage}
                 />
               </div>
